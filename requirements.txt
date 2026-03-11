@@ -1,0 +1,10 @@
+python-dotenv
+protobuf
+scikit-learn
+sentencepiece
+spacy
+torch
+transformers
+wandb
+datasets
+tqdm
